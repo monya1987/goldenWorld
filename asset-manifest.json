@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/goldenWorld/static/css/main.9b3b53f0.css",
+    "main.js": "/goldenWorld/static/js/main.1b2f1c4a.js",
+    "static/js/787.33e01314.chunk.js": "/goldenWorld/static/js/787.33e01314.chunk.js",
+    "static/media/front-top.jpg": "/goldenWorld/static/media/front-top.2737d2f649fe1060e124.jpg",
+    "static/media/front-bottom.jpg": "/goldenWorld/static/media/front-bottom.c288f9d77317c882fde5.jpg",
+    "static/media/loginbar.png": "/goldenWorld/static/media/loginbar.997bf029ae3138dd74f1.png",
+    "static/media/shield.png": "/goldenWorld/static/media/shield.a84e0b7dce9f3dd50ff7.png",
+    "static/media/logo.svg": "/goldenWorld/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/goldenWorld/index.html",
+    "main.9b3b53f0.css.map": "/goldenWorld/static/css/main.9b3b53f0.css.map",
+    "main.1b2f1c4a.js.map": "/goldenWorld/static/js/main.1b2f1c4a.js.map",
+    "787.33e01314.chunk.js.map": "/goldenWorld/static/js/787.33e01314.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3b53f0.css",
+    "static/js/main.1b2f1c4a.js"
+  ]
+}
