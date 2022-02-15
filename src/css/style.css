@@ -79,6 +79,10 @@ a.block_menu_sub_item {font: 10px Tahoma; display:block; color: rgb(89, 63, 38);
 	position:relative;
 }
 
+.mainpart h1 {
+	margin: 0;
+}
+
 .mainpart a {
 	color:#b30000;
 }
@@ -230,7 +234,6 @@ a.block_menu_sub_item {font: 10px Tahoma; display:block; color: rgb(89, 63, 38);
 .mainmenu dd {
 	margin: 0 21px 0 24px;
 	padding: 2px 0 3px 0;
-	display:none;
 }
 
 .mainmenu dd a {
