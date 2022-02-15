@@ -1,0 +1,128 @@
+.staff {overflow:hidden;}
+.staff .line {
+	width:50%;
+	float:left;
+	height:410px;
+	}
+.staff .line img {
+	display:block;
+	}
+.staff .line div {
+	margin-top:15px;
+	}
+.staff .line p {
+	padding-left:35px;
+	padding-bottom:4px;
+	}
+.stats table {width:auto !important; margin-bottom:24px;}
+.stats table td {
+	border:1px solid #593F26;
+	color:#593F26;
+	padding:4px 6px;
+	}
+.stats table tr.oddrow {
+	background:#f1e7c7;
+	}
+.registr label {
+	display:block;
+	float:left;
+	width:140px;
+	text-align:right;
+	margin-right:15px;
+	padding-top:5px;
+	font-weight:bold;
+	}
+.registr .submit {
+	margin-left:155px;
+	background:0;
+	font-weight:bold;
+	color:#593F26;
+	font-family:Tahoma;
+	font-size:12px;
+	border:1px solid #AD996B;
+	padding:2px 0;
+	}
+.registr .submit:hover {
+	background:#AD996B;
+	cursor:pointer;
+	border:1px solid #593F26;
+	}
+.registr input {
+	clear:both;
+	}
+.inputer {margin-bottom:12px;}
+#front-wrapper {
+	width: 100%;
+	min-width:1000px;
+	text-align:center;
+	display: block;
+	overflow:hidden;
+	position:relative;
+	z-index:1;
+	padding-bottom:450px;
+}
+
+#front {
+	margin:auto;
+	min-height:1600px;
+	zoom:1;
+	display:block;
+	position:relative;
+	text-align:center;
+}
+
+
+.topline {
+	height:195px;
+	width:1000px;
+	margin:auto;
+	position:relative;
+	z-index:50;
+}
+
+.mask {
+	position:relative;
+	width:698px;
+	margin: 0 auto;
+	padding-left:272px;
+	display:block;
+	overflow:hidden;
+	text-align:left;
+	clear:both;
+	z-index:10;
+	margin-bottom:-80px;
+	left:10px;
+}
+
+.mask .column {
+	width:272px;
+	display:block;
+	position:relative;
+	float:left;
+	left:-272px;
+	margin-right:-272px;
+	margin-top:245px;
+	overflow:visible;
+}
+
+/*
+     FILE ARCHIVED ON 04:38:42 Apr 05, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:55:38 Feb 15, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 72.822
+  exclusion.robots: 0.125
+  exclusion.robots.policy: 0.115
+  RedisCDXSource: 6.346
+  esindex: 0.009
+  LoadShardBlock: 46.323 (3)
+  PetaboxLoader3.datanode: 69.505 (5)
+  CDXLines.iter: 17.695 (3)
+  load_resource: 263.517 (2)
+  PetaboxLoader3.resolve: 226.204 (2)
+*/
